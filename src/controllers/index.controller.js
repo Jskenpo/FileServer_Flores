@@ -77,6 +77,8 @@ const getArreglos = async (req, res) => {
 
 
 
+
+
 module.exports = {
     getArreglosByCategory,
     getArreglos
